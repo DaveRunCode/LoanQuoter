@@ -10,6 +10,6 @@ Features:
 - Tailwind Framework
 - Deploiment on Netlify
 
-To view this project click here: <a href:"https://loanquoter.netlify.app/">Loan Quoter</a>
+To view this project click here: [Loan Quoter](https://loanquoter.netlify.app/)
 
 Use Intl API to format the currency.
