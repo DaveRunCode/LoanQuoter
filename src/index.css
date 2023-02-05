@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.effectButton {
+    box-shadow: -3px -3px 7px #fff,
+    3px 3px 5px rgb(94, 104, 121, 0.7);
+}
